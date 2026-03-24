@@ -5,6 +5,11 @@
 ---
 
 ### 🚀 About Me
+Je suis actuellement étudiant à Holberton School Toulouse. Je prépare un titre RNCP 5 (Développeur Web et Web Mobile).
+Mon parcours est guidé par la curiosité et l'efficacité :
+
+🎓 Formation : Holberton School Toulouse (Focus actuel : Shell, Langage C & Algorithmique).
+🎯 Objectif : Me former en Cybersécurité, l'intelligence artificielle et Data Analyse.
 - 🔭 I’m currently working on the `_printf` project in C.
 - 🛡️ Passionate about Cybersecurity.
 

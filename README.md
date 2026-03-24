@@ -1,6 +1,8 @@
 <div align="center">
-  <img src="https://image.noelshack.com/fichiers/2024/22/1/1716818160-header-alex-3.png" alt="Hello, I'm Alex - Cybersecurity & Full Stack" width="800">
+  <img src="https://image.noelshack.com/fichiers/2024/22/1/1716818160-header-alex-1.png" alt="Bandeau de profil de Alex - Full Stack & Cybersecurity" width="900">
 </div>
+
+---
 
 ### 🚀 About Me
 - 🔭 I’m currently working on the `_printf` project in C.

@@ -1,5 +1,6 @@
-## Hello I'm Alex
-Full stack developer, Cybersecurity-focused Software Engineering student at Holberton
+<div align="center">
+  <img src="https://image.noelshack.com/fichiers/2024/22/1/1716818160-header-alex-3.png" alt="Hello, I'm Alex - Cybersecurity & Full Stack" width="800">
+</div>
 
 ### 🚀 About Me
 - 🔭 I’m currently working on the `_printf` project in C.
@@ -23,8 +24,6 @@ Full stack developer, Cybersecurity-focused Software Engineering student at Holb
 
 ---
 
-### 📊 Mes Statistiques GitHub
-![Stats de Alex](https://github-readme-stats.vercel.app/api?username=TON_PSEUDO_ICI&show_icons=true&theme=tokyonight)## Hi there 👋
 
 <!--
 **alexholberton/alexholberton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

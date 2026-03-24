@@ -15,9 +15,14 @@ I am currently a student at Holberton School Toulouse, working towards a French 
 
 🛡️ Passion: Deeply passionate about Cybersecurity.
 
+## 🛠 Skills & Certification
+Languages: C (In progress), Shell & Bash (Mastered).
+
+Automation & Tools: Git, GitHub.
+
+Certification: Currently pursuing RNCP Level 5 – Web & Mobile Web Developer.
 
 
----
 
 ## 🛠 Tech Stack
 

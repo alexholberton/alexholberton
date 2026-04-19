@@ -5,7 +5,7 @@
 ---
 
 ### 🚀 About Me
-I am currently a student at Holberton School Toulouse, working towards a French RNCP Level 5 certification (Web and Mobile Web Developer). My journey is driven by curiosity and a focus on efficiency:
+I am currently a student, working towards a French RNCP Level 5 certification (Web and Mobile Web Developer). My journey is driven by curiosity and a focus on efficiency:
 
 🎓 Education: Holberton School Toulouse (Current focus: Shell, C Language & Algorithms).
 
